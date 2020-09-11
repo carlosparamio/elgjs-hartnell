@@ -1,0 +1,12 @@
+BAS2TAPE_PATH=zmakebas
+EMULATOR_PATH=/mnt/r/Retro/Emulators/Fuse/fuse.exe
+EMULATOR_OPTS=--machine plus2
+
+$(OUTPUT_NAME).tap: $(OUTPUT_NAME).bas
+	$(BAS2TAPE_PATH) -a 1 -o $(OUTPUT_NAME).tap -n $(OUTPUT_NAME) $(OUTPUT_NAME).bas
+
+run: $(OUTPUT_NAME).tap
+	$(EMULATOR_PATH) $(OUTPUT_NAME).tap $(EMULATOR_OPTS)
+
+clean:
+	rm -f $(OUTPUT_NAME).tap

@@ -1,3 +1,0 @@
-BAS2TAPE_PATH=zmakebas
-EMULATOR_PATH=/Applications/Fuse.app/Contents/MacOS/Fuse
-EMULATOR_OPTS=--machine plus2

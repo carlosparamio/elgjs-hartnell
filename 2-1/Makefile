@@ -1,2 +1,2 @@
-OUTPUT_NAME = simon
+OUTPUT_NAME = pozomagico
 include ../Makefile.common
