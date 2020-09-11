@@ -1,3 +1,9 @@
+# Parte séptima
+
+## Para pensar
+
+### 2. Simón
+
 Esta es una versión de uno de los primeros juegos que se hicieron en ordenador. El cometido que tienes que realizar es aprenderte de memoria los números y tonos que el ordenador va creando para, cuando llegue tu turno, repetirlos.
 
 El ordenador empieza eligiendo un número entre 1 y 4. Este determina en qué parte de la pantalla se dibujará un gran bloque, el color que se le va a dar a ese bloque, y la nota que se va a tocar.

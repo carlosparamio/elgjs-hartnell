@@ -1,3 +1,9 @@
+# Parte segunda
+
+## Aventura
+
+### 1. Encuentro en el pozo mágico
+
 Si nunca has jugado a un juego de los llamados de aventuras, entonces te divertirás con esta sencilla (prácticamente aleatoria) aventura escrita por Gary Wilson.
 
 Te voy a explicar de una forma muy rápida en qué consisten los juegos de aventuras. En esta clase de juegos tú eres un personaje más, que estás viviendo en el mundo que crea el programador por medio de un individuo dentro del programa. Este realizará todo lo que tú le digas, haste un cierto límite, dependiendo de lo bueno que sea el programa. Un buen juego de aventuras ocupa mucha memoria; además, gran parte de él está en *código máquina*, por eso los que vienen a continuación se pueden considerar que son para que te pongan la miel en los labios y pruebes otros que tengan mayores dificultades.

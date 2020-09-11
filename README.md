@@ -8,14 +8,14 @@ This repository contains some of the BASIC games for the ZX Spectrum that appear
 
 1. Carretera
 2. La rana
-3. [Correcaminos](1-3/README.md)
+3. [Correcaminos](1-3/)
 4. Laberinto
 5. Batalla de tanques
 6. Blade Runner
 7. Zombies
 8. Cazando gambusinos
 9. Marcianos
-10. [Emboscada](1-10/README.md)
+10. [Emboscada](1-10/)
 11. Caza
 12. Viaje a través del túnel
 13. Bombardero
