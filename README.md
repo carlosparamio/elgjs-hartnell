@@ -15,7 +15,7 @@ This repository contains some of the BASIC games for the ZX Spectrum that appear
 7. Zombies
 8. Cazando gambusinos
 9. Marcianos
-10. Emboscada
+10. [Emboscada](1-10/README.md)
 11. Caza
 12. Viaje a través del túnel
 13. Bombardero
