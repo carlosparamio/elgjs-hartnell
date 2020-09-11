@@ -18,4 +18,4 @@ Te va a resultar francamente difícil llegar al final de la décima sección, po
 
 Buena suerte.
 
-[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/1-3/correcaminos.tap)
+[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/1-03/correcaminos.tap)

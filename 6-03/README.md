@@ -16,4 +16,4 @@ Si te has decidido y has aceptado el reto, ahí van las instrucciones.
 
 Después, siéntate a ver lo que ocurre.
 
-[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/6-3/piedrapapeltijeras.tap)
+[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/6-03/piedrapapeltijeras.tap)

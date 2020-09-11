@@ -12,4 +12,4 @@ Después de esto tú repites el número que haya elegido el ordenador, y sale ot
 
 Si el mismo número aparece repetido, tendrás que levantar el dedo de la tecla que indique el número, y después volver a pulsar la tecla. Si no haces esto, el ordenador entenderá que sólo has apretado la tecla una sola vez.
 
-[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/7-2/simon.tap)
+[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/7-02/simon.tap)
