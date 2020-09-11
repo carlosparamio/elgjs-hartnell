@@ -15,3 +15,5 @@ El alto mando te ha ordenado que esperes emboscado en la parte inferior de la pa
 El número de disparos es limitado y la puntuación te vendrá dada por el número de vehículos que destroces del convoy.
 
 **No olvides conectar CAPS LOCK.**
+
+[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/1-10/emboscada.tap)

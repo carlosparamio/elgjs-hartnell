@@ -17,3 +17,5 @@ Como la carretera es tan larga, sólo puedes ver la determinada sección en que 
 Te va a resultar francamente difícil llegar al final de la décima sección, por eso te econsejo que te vayas armando de paciencia; y procura no pegarle un golpe al Spectrum cuando en la última sección veas que el final ya está cerca y te choques tontamente.
 
 Buena suerte.
+
+[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/1-3/correcaminos.tap)

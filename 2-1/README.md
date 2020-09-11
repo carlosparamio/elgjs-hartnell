@@ -22,3 +22,5 @@ El programa, de vez en cuando, te dará información de tu energía y de los tes
 También, en otros lugares, llegarás a unas encrucijadas en las que tendrás que decidir qué camino tomas.
 
 Pero habrá momentos en los que aparecerá un *warlord* (señor de la guerra), y el juego acabará; contra él no tienes escapatoria.
+
+[Jugar](http://torinak.com/qaop#l=https://raw.githubusercontent.com/carlosparamio/elgjs-hartnell/master/2-1/pozomagico.tap)
