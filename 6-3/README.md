@@ -8,10 +8,10 @@ Este es un juego aconsejado a los más pequeños de la casa. Debes hacer tu elec
 
 Si te has decidido y has aceptado el reto, ahí van las instrucciones.
 
-0—Para la piedra.
+**0—Para la piedra.**
 
-1—Para el papel.
+**1—Para el papel.**
 
-2—Para las tijeras.
+**2—Para las tijeras.**
 
 Después, siéntate a ver lo que ocurre.
